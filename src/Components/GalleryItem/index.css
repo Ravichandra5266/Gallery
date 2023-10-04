@@ -1,0 +1,14 @@
+li {
+  margin: 5px;
+}
+.thumb-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.active {
+  opacity: 1;
+}
+.inActive {
+  opacity: 0.5;
+}
